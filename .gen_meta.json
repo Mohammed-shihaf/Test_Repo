@@ -1,0 +1,11 @@
+{
+  "strength": 0,
+  "technique": "SX",
+  "metric": "SIT",
+  "branch_type": "TCC",
+  "version": "2.6",
+  "language": "python",
+  "n_functions": 37,
+  "loc": 1301,
+  "branch_name": "SX_Sensitive-Information-Tracking_TCC_2.6"
+}
