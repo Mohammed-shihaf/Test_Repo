@@ -1,0 +1,11 @@
+{
+  "strength": 1,
+  "technique": "DF",
+  "metric": "ATV",
+  "branch_type": "Bug",
+  "version": "2.6",
+  "language": "python",
+  "n_functions": 38,
+  "loc": 1200,
+  "branch_name": "DF_Audit-Trail-Verification_Bug_2.6"
+}
