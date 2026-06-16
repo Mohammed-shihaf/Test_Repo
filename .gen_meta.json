@@ -1,0 +1,11 @@
+{
+  "strength": 1,
+  "technique": "BR",
+  "metric": "SIM",
+  "branch_type": "Bug",
+  "version": "2.6",
+  "language": "python",
+  "n_functions": 37,
+  "loc": 1224,
+  "branch_name": "BR_Sequence-Integrity-Mapping_Bug_2.6"
+}
