@@ -1,0 +1,11 @@
+{
+  "strength": 2,
+  "technique": "PC",
+  "metric": "AQE",
+  "branch_type": "TCC",
+  "version": "2.6",
+  "language": "python",
+  "n_functions": 48,
+  "loc": 1610,
+  "branch_name": "PC_Automated-Quality-Enforcement_TCC_2.6"
+}
