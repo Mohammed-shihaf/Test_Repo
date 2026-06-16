@@ -1,0 +1,11 @@
+{
+  "strength": 1,
+  "technique": "BR",
+  "metric": "SIM",
+  "branch_type": "CC",
+  "version": "2.6",
+  "language": "python",
+  "n_functions": 37,
+  "loc": 1300,
+  "branch_name": "BR_Sequence-Integrity-Mapping_CC_2.6"
+}
