@@ -1,0 +1,11 @@
+{
+  "strength": 0,
+  "technique": "CD",
+  "metric": "DPA",
+  "branch_type": "CC",
+  "version": "2.6",
+  "language": "python",
+  "n_functions": 38,
+  "loc": 1320,
+  "branch_name": "CD_Discovery-Power-Assessment_CC_2.6"
+}
