@@ -1,0 +1,11 @@
+{
+  "strength": 5,
+  "technique": "DP",
+  "metric": "CCS",
+  "branch_type": "TCC",
+  "version": "2.6",
+  "language": "python",
+  "n_functions": 108,
+  "loc": 2543,
+  "branch_name": "DP_Code-Churn-Score_TCC_2.6"
+}
