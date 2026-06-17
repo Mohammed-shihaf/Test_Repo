@@ -1,0 +1,7 @@
+{
+  "churn_score": 20.0,
+  "code_churn_score": {
+    "churn_score": 20.0,
+    "commits": 42
+  }
+}
