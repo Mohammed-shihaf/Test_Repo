@@ -1,0 +1,11 @@
+{
+  "strength": 5,
+  "technique": "DP",
+  "metric": "CCS",
+  "branch_type": "Bug",
+  "version": "2.6",
+  "language": "python",
+  "n_functions": 116,
+  "loc": 2565,
+  "branch_name": "DP_Code-Churn-Score_Bug_2.6"
+}
