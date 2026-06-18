@@ -1,0 +1,11 @@
+{
+  "strength": 4,
+  "technique": "DR",
+  "metric": "CVT",
+  "branch_type": "CC",
+  "version": "2.6",
+  "language": "python",
+  "n_functions": 96,
+  "loc": 2524,
+  "branch_name": "DR_Community-Vitality-Tracking_CC_2.6"
+}
