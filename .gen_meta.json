@@ -1,0 +1,11 @@
+{
+  "strength": 4,
+  "technique": "SX",
+  "metric": "ACV",
+  "branch_type": "CC",
+  "version": "2.6",
+  "language": "python",
+  "n_functions": 100,
+  "loc": 2561,
+  "branch_name": "SX_Access-Control-Verification_CC_2.6"
+}
