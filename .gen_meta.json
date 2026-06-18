@@ -1,0 +1,11 @@
+{
+  "strength": 7,
+  "technique": "DF",
+  "metric": "DPV",
+  "branch_type": "Bug",
+  "version": "2.6",
+  "language": "python",
+  "n_functions": 112,
+  "loc": 2534,
+  "branch_name": "DF_DU-Path-Validation_Bug_2.6"
+}
