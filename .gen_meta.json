@@ -1,0 +1,11 @@
+{
+  "strength": 7,
+  "technique": "DF",
+  "metric": "DPV",
+  "branch_type": "TCC",
+  "version": "2.6",
+  "language": "python",
+  "n_functions": 104,
+  "loc": 2542,
+  "branch_name": "DF_DU-Path-Validation_TCC_2.6"
+}
