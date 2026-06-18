@@ -1,0 +1,11 @@
+{
+  "strength": 4,
+  "technique": "DU",
+  "metric": "COVER",
+  "branch_type": "CC",
+  "version": "2.6",
+  "language": "python",
+  "n_functions": 92,
+  "loc": 2526,
+  "branch_name": "DU_All-Uses-Coverage_CC_2.6"
+}
