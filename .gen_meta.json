@@ -1,0 +1,12 @@
+{
+  "strength": 4,
+  "technique": "ST",
+  "metric": "TCG",
+  "branch_type": "CC",
+  "version": "2.6",
+  "language": "python",
+  "runtime": "3.12",
+  "n_functions": 104,
+  "loc": 2574,
+  "branch_name": "ST_Test-Case-Granularity_CC_2.6"
+}
