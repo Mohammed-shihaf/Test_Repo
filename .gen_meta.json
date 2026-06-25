@@ -1,0 +1,12 @@
+{
+  "strength": 6,
+  "technique": "SA",
+  "metric": "EPI",
+  "branch_type": "TCC",
+  "version": "2.6",
+  "language": "python",
+  "runtime": "3.12",
+  "n_functions": 102,
+  "loc": 2517,
+  "branch_name": "SA_Execution-Path-Integrity_TCC_2.6"
+}
