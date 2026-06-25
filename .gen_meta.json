@@ -1,0 +1,12 @@
+{
+  "strength": 6,
+  "technique": "SA",
+  "metric": "EPI",
+  "branch_type": "Bug",
+  "version": "2.6",
+  "language": "python",
+  "runtime": "3.12",
+  "n_functions": 110,
+  "loc": 2500,
+  "branch_name": "SA_Execution-Path-Integrity_Bug_2.6"
+}
