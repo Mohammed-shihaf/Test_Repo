@@ -1,0 +1,12 @@
+{
+  "strength": 4,
+  "technique": "ST",
+  "metric": "TCG",
+  "branch_type": "Bug",
+  "version": "2.6",
+  "language": "python",
+  "runtime": "3.12",
+  "n_functions": 116,
+  "loc": 2569,
+  "branch_name": "ST_Test-Case-Granularity_Bug_2.6"
+}
